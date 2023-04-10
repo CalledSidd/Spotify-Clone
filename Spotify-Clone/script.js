@@ -7,12 +7,9 @@ let myProgressBar = document.getElementById('myProgressBar')
 let gif = document.getElementById('gif')
 
 let songs = [
-    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/album-cover.jpg"},
-    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/album-cover.jpg"},
-    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/album-cover.jpg"},
-    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/album-cover.jpg"},
-    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/album-cover.jpg"},
-    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/album-cover.jpg"},
+    {songName: "Pillowtalk", filePath: "songs/pillowtalk.mp3", coverPath: "covers/pillowtalk.jpg"},
+    {songName: "Free Flow", filePath: "songs/freeflow.mp3", coverPath: "covers/freeflow.jpg"},
+    {songName: "Empire State Of Mind", filePath: "songs/empirestate.mp3", coverPath: "covers/empirestate.jpg"},
 ]
 
 masterPlay.addEventListener('click', ()=> {

@@ -1,0 +1,1 @@
+![alt text](https://github.com/CalledSidd/Spotify-Clone/blob/main/preview.png)
